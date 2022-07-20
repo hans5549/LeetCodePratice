@@ -1,0 +1,13 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\netcoreapp3.1\1480. Running Sum of 1d Array.genruntimeconfig.cache
