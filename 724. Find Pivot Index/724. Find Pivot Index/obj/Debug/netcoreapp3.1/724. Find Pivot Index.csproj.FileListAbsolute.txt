@@ -1,0 +1,14 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\netcoreapp3.1\724. Find Pivot Index.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.csproj.AssemblyReference.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\netcoreapp3.1\724. Find Pivot Index.genruntimeconfig.cache
