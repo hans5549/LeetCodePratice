@@ -1,0 +1,14 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csproj.AssemblyReference.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\35. Search Insert Position\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.genruntimeconfig.cache
