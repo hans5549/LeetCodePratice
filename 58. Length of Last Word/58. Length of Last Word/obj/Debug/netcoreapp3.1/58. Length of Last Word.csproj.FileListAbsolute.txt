@@ -1,0 +1,13 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\58. Length of Last Word\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.genruntimeconfig.cache
