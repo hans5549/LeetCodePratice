@@ -1,0 +1,13 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\bin\Debug\netcoreapp3.1\205. Isomorphic Strings.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\205. Isomorphic Strings\205. Isomorphic Strings\obj\Debug\netcoreapp3.1\205. Isomorphic Strings.genruntimeconfig.cache
