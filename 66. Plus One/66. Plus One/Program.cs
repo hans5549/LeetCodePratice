@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _66._Plus_One
 {
@@ -12,26 +13,27 @@ namespace _66._Plus_One
 
         public static int[] PlusOne(int[] digits)
         {
-            digits[digits.Length - 1] = digits[digits.Length - 1] + 1;
-            if (digits.Length == 1)
+            List<int> digitslist = new List<int>();
+            digitslist.AddRange(digits);
+            digitslist[digits.Length - 1] = digitslist[digits.Length - 1] + 1;
+
+            for (int i = digitslist.Count - 1; i > -1; i--)
             {
-                if (digits[0] >= 10)
+                if (digitslist[i] >= 10)
                 {
-                    digits = new int[] { 1, 0 };
-                }
-            }
-            else
-            {
-                for (int i = digits.Length - 1; i < 0; i++)
-                {
-                    if (digits[i] >= 10)
+                    digitslist[i] = 0;
+                    if (i == 0)
                     {
-                        digits[i - 1] += 1;
+                        digitslist.Insert(0, 1);
+                    }
+                    else
+                    {
+                        digitslist[i - 1] += 1;
                     }
                 }
             }
-            
-            return digits;
+
+            return digitslist.ToArray();
         }
     }
 }
