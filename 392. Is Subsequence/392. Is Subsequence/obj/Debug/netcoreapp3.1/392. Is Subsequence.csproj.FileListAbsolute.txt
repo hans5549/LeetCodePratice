@@ -1,0 +1,14 @@
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.exe
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.deps.json
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.runtimeconfig.json
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.runtimeconfig.dev.json
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\bin\Debug\netcoreapp3.1\392. Is Subsequence.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.csproj.AssemblyReference.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.AssemblyInfoInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.AssemblyInfo.cs
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.csproj.CoreCompileInputs.cache
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.dll
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.pdb
+D:\Hans_Test\LeetCode\LeetCodePratice\392. Is Subsequence\392. Is Subsequence\obj\Debug\netcoreapp3.1\392. Is Subsequence.genruntimeconfig.cache
