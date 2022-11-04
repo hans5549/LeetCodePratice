@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fitcNi/c77mBxG0ed1hb8lK++oX4YHYoPNhOHmNrw7IEe8d6sSZqaDRypSzGBfKVMlm2TDT53JNb2KbOISiYZA==",
+  "dgSpecHash": "/wobT55oXakJ4MspnwAwzVITHhOFAq9G8xwbByxfRaI2tu8Fdf5i+Y73tjMBDAoa6hl8S88/H/LC+Qw9GeEmTw==",
   "success": true,
   "projectFilePath": "D:\\Hans_Test\\LeetCode\\LeetCodePratice\\724. Find Pivot Index\\724. Find Pivot Index\\724. Find Pivot Index.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hans.huang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
